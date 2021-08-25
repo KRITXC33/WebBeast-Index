@@ -43,7 +43,8 @@ h2 {
 .clear {
     clear: both;
 }
-#promo {
+#promo > div {
+    padding: 15px;
     background-color: #F4036
 }
 #subscribe
