@@ -1,0 +1,54 @@
+/*
+font-family: "Anton", cursive;
+font-family: "Open Sans", sans-serif;
+
+Text Color : #333
+Black : #345995
+Orange : #4392F1
+Red : #D7263D
+Green : #EAC435
+Blue : #F46036
+*/
+
+
+
+
+
+body {
+}
+h1, h2 {
+    margin: 0;
+    padding : 0
+    font-family: "Open Sans",
+        sans-serif;
+    font-size: 15px;
+    background-color: white;
+        color: #0026ff
+}
+h1 {
+    font-size: 110px;
+}
+h2 {
+    30px;
+}
+.spacer.v20 {
+    height: 20px;
+}
+.spacer.v40 {
+    height: 40px;
+}
+.spacer.v80 {
+    height: 80px;
+}
+.clear {
+    clear: both;
+}
+#promo {
+    background-color: #F4036
+}
+#subscribe
+#footer {
+    text-align: center;
+    color: #00ff21
+    min-width: 1000px;
+}
