@@ -1,6 +1,6 @@
 var app = (function () {
     /* Properties */
-    var websiteName = "kdccodes"
+    var websiteName = "kdcodes"
     /*Methods*/
     return {
         getWebsiteName: function () {
