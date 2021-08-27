@@ -4,5 +4,9 @@
 * WebBeast is just a holder for a website KDC.
 * Not all code needs to be involved.
 
-# How to Compile the website
-* All you need to do is remove the README and all other text and click index to open.
+# How view the Website
+Wherever the file is saved, move it to:
+```
+Windows (C:)
+```
+Thanks for stopping by!
