@@ -9,4 +9,5 @@ Wherever the file is saved, move it to:
 ```
 Windows (C:)
 ```
-Thanks for stopping by!
+* Don't try to use build tool in VSCODE, this thing is compiled already.
+* For some reason, windows reports SVG as an error.
